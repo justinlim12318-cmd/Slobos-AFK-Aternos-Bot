@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Ryxar_!",
         "I like to play Minecraft!"
       ]
     },
@@ -41,14 +41,14 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
-  "movement": {
+  "movement": true,
     "enabled": true,
-    "circle-walk": {
+    "circle-walk": true,
       "enabled": true,
       "radius": 4,
       "speed": 3000
     },
-    "look-around": {
+    "look-around": true,
       "enabled": true,
       "interval": 5000
     },
